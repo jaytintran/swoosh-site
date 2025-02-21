@@ -3,6 +3,7 @@ import ProfileCard from "./ProfileCard";
 import SkillsSection from "./SkillsSection";
 import RecentProjects from "./RecentProjects";
 import SkillsTools from "./SkillsTools";
+import ContactForm from "./ContactForm";
 
 const Home = () => (
   <>
@@ -20,6 +21,7 @@ const Home = () => (
         <SkillsSection />
         <RecentProjects />
         <SkillsTools />
+        <ContactForm />
       </div>
     </div>
   </>

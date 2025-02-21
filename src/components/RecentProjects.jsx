@@ -18,7 +18,7 @@ const projects = [
 ];
 
 const RecentProjects = () => (
-  <div className="mt-10">
+  <div className="mt-10 md:mt-20">
     <h1 className="text-5xl uppercase font-bold text-left">
       Recent <span className="text-gray-600">Projects</span>
     </h1>
