@@ -75,7 +75,7 @@ const ContactForm = () => {
 
         <div className="mt-4">
           <label className="block mb-1 text-sm text-left text-gray-600">
-            Budget
+            Budget | <span className="text-xs text-gray-400"></span>
           </label>
           <select
             name="budget"
