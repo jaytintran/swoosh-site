@@ -17,7 +17,7 @@ Lucide React – Icon library for modern UI
 ✔️ Contact Form Integration – Users can reach out via email
 ✔️ Minimal & Elegant UI – TailwindCSS for easy customization
 
-Installation & Setup
+## Installation & Setup
 1. Clone the repository
 ```
 git clone https://github.com/jaytintran/swoosh-site.git
