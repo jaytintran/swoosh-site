@@ -12,11 +12,11 @@ My work portfolio built with React.js and TailwindCSS, featuring a sleek, dark, 
 
 ## Features
 
-- ✔️ Fully Responsive – Works seamlessly on all devices
-- ✔️ Dark Mode – A clean, modern aesthetic
-- ✔️ Performance Optimized – Fast loading with Vite
-- ✔️ Contact Form Integration – Users can reach out via email
-- ✔️ Minimal & Elegant UI – TailwindCSS for easy customization
+✔️ Fully Responsive – Works seamlessly on all devices
+<br>✔️ Dark Mode – A clean, modern aesthetic
+<br>✔️ Performance Optimized – Fast loading with Vite
+<br>✔️ Contact Form Integration – Users can reach out via email
+<br>✔️ Minimal & Elegant UI – TailwindCSS for easy customization
 
 ## Installation & Setup
 
