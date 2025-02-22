@@ -2,6 +2,9 @@
 
 My work portfolio built with React.js and TailwindCSS, featuring a sleek, dark, and minimalist design that showcases who I am in a concise and impactful manner.
 
+![image](https://github.com/user-attachments/assets/3a535d1a-59c9-4d51-b65f-c8c361c8a447)
+
+
 ## Tech Stack
 
 🔹 React 19 – Frontend framework<br>
