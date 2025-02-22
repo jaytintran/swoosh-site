@@ -2,27 +2,27 @@ const skills = [
   {
     name: "React",
     description: "Front-end Library",
-    icon: "./src/assets/react-icon.png",
+    icon: "/react-icon.png",
   },
   {
     name: "Next.js",
     description: "Full-stack Framework",
-    icon: "./src/assets/nextjs-icon.png",
+    icon: "/nextjs-icon.png",
   },
   {
     name: "TailwindCSS",
     description: "Styling Framework",
-    icon: "./src/assets/tailwind-icon.png",
+    icon: "/tailwind-icon.png",
   },
   {
     name: "JavaScript",
     description: "Programming Language",
-    icon: "./src/assets/javascript-icon.png",
+    icon: "/javascript-icon.png",
   },
   {
     name: "Git",
     description: "Version Control",
-    icon: "./src/assets/git-icon.png",
+    icon: "/git-icon.png",
   },
 ];
 

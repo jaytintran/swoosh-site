@@ -5,7 +5,7 @@ const ProfileCard = () => (
   <div className="bg-white md:p-6 p-10 rounded-2xl shadow-xl lg:w-80 w-100 mx-auto">
     <div className="min-h-28 rounded-xl flex justify-center items-center">
       <img
-        src="/src/assets/profile-photo.jpg"
+        src="/profile-photo.jpg"
         alt="Profile"
         className="w-50 h-50 rounded-xl"
       />
