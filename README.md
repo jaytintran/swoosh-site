@@ -4,11 +4,11 @@ My work portfolio built with React.js and TailwindCSS, featuring a sleek, dark, 
 
 ## Tech Stack
 
-React 19 – Frontend framework
-Vite – Fast development build tool
-TailwindCSS – Utility-first CSS framework
-JavaScript – Core scripting language
-Lucide React – Icon library for modern UI
+🔹 React 19 – Frontend framework
+🔹 Vite – Fast development build tool
+🔹 TailwindCSS – Utility-first CSS framework
+🔹 JavaScript – Core scripting language
+🔹 Lucide React – Icon library for modern UI
 
 ## Features
 
