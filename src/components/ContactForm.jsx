@@ -29,6 +29,7 @@ const ContactForm = () => {
           setFormData({ name: "", email: "", budget: "", message: "" });
         },
         (error) => {
+          console.log(error.text);
           alert("Failed to send message, try again later.");
         }
       );
