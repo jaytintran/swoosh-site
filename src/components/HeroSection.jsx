@@ -1,7 +1,7 @@
 const HeroSection = () => (
   <div className="text-white md:text-left max-w-2xl">
     <h1 className="lg:text-7xl text-5xl font-bold text-left">
-      SOFTWARE <span className="text-gray-600">ENGINEER</span>
+      FULL STACK <span className="text-gray-600">DEVELOPER</span>
     </h1>
     <p className="text-gray-400 mt-4 text-left">
       Passionate about creating intuitive and engaging user experiences. I help

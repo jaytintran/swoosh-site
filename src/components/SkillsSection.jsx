@@ -1,4 +1,4 @@
-import Card from "./util-components/Card";
+import Card from "./ui/Card";
 
 const SkillsSection = () => (
   <div className="grid grid-cols-2 md:grid-cols-2 gap-6 mt-10">

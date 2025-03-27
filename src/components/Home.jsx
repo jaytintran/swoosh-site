@@ -16,7 +16,7 @@ const Home = () => (
       </div>
 
       {/* Right Column: Content */}
-      <div className="flex-1 md:mt-12">
+      <div className="flex-1 md:mt-12 lg:max-w-3/5">
         <HeroSection />
         <SkillsSection />
         <RecentProjects />

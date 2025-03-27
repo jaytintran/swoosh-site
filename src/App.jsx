@@ -1,6 +1,6 @@
 import "./App.css";
 import Home from "./components/Home";
-import SectionWrapper from "./components/util-components/SectionWrapper";
+import SectionWrapper from "./components/ui/SectionWrapper";
 import Footer from "./components/Footer";
 
 function App() {

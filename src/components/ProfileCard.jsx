@@ -1,5 +1,5 @@
 import { Github, Globe, Linkedin, Mail } from "lucide-react";
-import SocialLink from "./util-components/SocialLink";
+import SocialLink from "./ui/SocialLink";
 
 const ProfileCard = () => (
   <div className="bg-white md:p-6 p-10 rounded-2xl shadow-xl lg:w-80 w-100 mx-auto">
