@@ -4,7 +4,7 @@ import Swiper from "./ui/Swiper";
 const webDesignProjects = [
   {
     name: "Nike Store",
-    screenshot: "/public/nike-store.png",
+    screenshot: "/nike-store.png",
     description:
       "This is minimalistic React.js application styled with TailwindCSS. This project focuses on clean and efficient design practices while utilizing the power of React.js for a seamless user experience.",
     githubLink: "https://github.com/jaytintran/nike-store-react",
@@ -12,7 +12,7 @@ const webDesignProjects = [
   },
   {
     name: "Elec-car",
-    screenshot: "/public/elec-car.png",
+    screenshot: "/elec-car.png",
     description:
       "A mobile responsive website for an electric automobile dealer in local area. Technologies used: CSS, HTML, Figma & Front-end.",
     githubLink: "https://github.com/jaytintran/elec-car",
@@ -23,7 +23,7 @@ const webDesignProjects = [
 const developerProjects = [
   {
     name: "Neurai Face Recognition App",
-    screenshot: "/public/neurai.png",
+    screenshot: "/neurai.png",
     alt: "Screenshot of Neurai Face Recognition App",
     demoLink: "https://github.com/jaytintran/neurai",
     githubLink: "https://github.com/jaytintran/neurai",
@@ -32,7 +32,7 @@ const developerProjects = [
   },
   {
     name: "CineSeek Movie Discovery Platform",
-    screenshot: "/public/cineseek.png",
+    screenshot: "/cineseek.png",
     alt: "Screenshot of CineSeek Movie Discovery Platform",
     demoLink: "https://cine-seek-web.vercel.app/",
     githubLink: "https://github.com/jaytintran/cine-seek",
@@ -41,7 +41,7 @@ const developerProjects = [
   },
   {
     name: "Personal Portfolio Website",
-    screenshot: "/public/portfolio.png",
+    screenshot: "/portfolio.png",
     alt: "Screenshot of Personal Portfolio Website",
     githubLink: "https://github.com/jaytintran/swoosh-site",
     description:
