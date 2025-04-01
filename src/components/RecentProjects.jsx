@@ -40,6 +40,15 @@ const developerProjects = [
       "A movie discovery platform with a trending movies algorithm, built with React, TailwindCSS, and Appwrite.",
   },
   {
+    name: "SleekAI React Landing Page",
+    screenshot: "/sleekai.png",
+    alt: "Screenshot of SleekAI React Landing Page",
+    demoLink: "https://sleekai-landing-page.vercel.app/",
+    githubLink: "https://github.com/jaytintran/sleek-ai",
+    description:
+      "A landing page showcasing AI-powered features like image generation and chatbot interactions, built with React, and TailwindCSS."
+  },
+  {
     name: "Personal Portfolio Website",
     screenshot: "/portfolio.png",
     alt: "Screenshot of Personal Portfolio Website",
