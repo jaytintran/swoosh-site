@@ -28,9 +28,9 @@ const skills = [
 
 const SkillsTools = () => (
   <div className="mt-10 md:mt-20">
-    <h1 className="text-5xl uppercase font-bold text-left">
+    {/* <h1 className="text-5xl uppercase font-bold text-left">
       Skills & <span className="text-gray-600">Tools</span>
-    </h1>
+    </h1> */}
 
     <div className="grid grid-cols-2 xl:grid-cols-3 gap-6 mt-6">
       {skills.map((skill, index) => (

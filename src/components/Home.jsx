@@ -2,8 +2,9 @@ import HeroSection from "./HeroSection";
 import ProfileCard from "./ProfileCard";
 import SkillsSection from "./SkillsSection";
 import RecentProjects from "./RecentProjects";
-import SkillsTools from "./SkillsTools";
+// import SkillsTools from "./SkillsTools";
 import ContactForm from "./ContactForm";
+import SkillsShowcase from "./ui/SkillsShowcase";
 
 const Home = () => (
   <>
@@ -20,7 +21,8 @@ const Home = () => (
         <HeroSection />
         <SkillsSection />
         <RecentProjects />
-        <SkillsTools />
+        {/* <SkillsTools /> */}
+        <SkillsShowcase />
         <ContactForm />
       </div>
     </div>
